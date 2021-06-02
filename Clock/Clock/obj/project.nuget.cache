@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IS1g7MKbYpYC3d/ZxjEx4lEIvgzgHvgdePc1zbcBE9yYC5CcePZ2Nh0wTHPcBYf40ASx/UBRCvX7up1QTB+AIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batyb\\OneDrive\\Рабочий стол\\MyProjects\\Clock\\Clock\\Clock\\Clock\\Clock\\Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batyb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
